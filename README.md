@@ -10,7 +10,6 @@ Projetos desenvolvidos durantes a estadia no curso de Manutenção e Suporte a i
 Artigos publicaods gerados: 
   
   Pubilicado pela Faculdade de Letras da Universidade Federal de Minas Gerais(UFMG), com o título A Robótica Livre e o Ensino de Física e de Programação: Desenvolvendo um teclado musical eletrônico. Ano: 2018.
-Link: http://www.periodicos.letras.ufmg.br/index.php/textolivre/article/view/14186
 
   Um capítulo publicado no livro Protagonismo Pedagógico, organizado por Fernando Abath Cananéia, sob o título: Ensino de Física e de Programação a partir de uma Robótica livre. Ano: 2018.
   
