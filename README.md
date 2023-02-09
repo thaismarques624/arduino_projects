@@ -2,10 +2,10 @@
 
 Projetos desenvolvidos durantes a estadia no curso de Manutenção e Suporte a informática da ECIT Presidente João Goulart na matéria de física, como aluna e como monitora.
 
-  1.Botão e Buzzer
-  2.Jogo Inclusivo Para Cegos
-  3.Teclado
-  4.Duas leds e um Botão
+    1.Botão e Buzzer
+    2.Jogo Inclusivo Para Cegos
+    3.Teclado
+    4.Duas leds e um Botão
   
 Artigos publicaods gerados: 
   
